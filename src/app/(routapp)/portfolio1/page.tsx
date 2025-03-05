@@ -1,10 +1,10 @@
-import Portforlio1 from "@/components/Portforlio1";
-import React from "react";
+import Portforlio1 from '@/components/Portfolio1'
+import React from 'react'
 
 export default function page() {
   return (
     <div>
-      <Portforlio1 />
+        <Portforlio1/>
     </div>
-  );
+  )
 }
